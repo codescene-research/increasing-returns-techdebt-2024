@@ -1,4 +1,4 @@
-# Investigating the Returns of Highly Maintainable Code 2023
+# Investigating the Returns of Highly Maintainable Code 2024
 
 This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper "Increasing, not Diminishing: Investigating the Returns of Highly Maintainable Code" submitted to the [7th International Conference on Technical Debt (TechDebt)](https://conf.researchr.org/home/TechDebt-2024), Lisbon, Portugal, May 14-15, 2024.
 
